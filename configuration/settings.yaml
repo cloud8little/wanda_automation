@@ -1,0 +1,40 @@
+Jenkins:
+  host: 10.214.170.70
+  port: 8080
+  username: zhangshuyun8
+  password: 88888888
+
+Spark:
+  host:
+  username:
+  password:
+
+ORACLE:
+  host:
+  username:
+  password:
+
+TestRail:
+  host:
+  port:
+  api_key:
+
+LogServer:
+  host:
+  port:
+  username:
+  password:
+
+SIT:
+  MYSQL:
+    host: 10.214.169.130
+    port: 3306
+    username: wandatest
+    password: Loan@wanda123
+
+Perf:
+  MYSQL:
+    host: 10.214.176.20
+    port: 3306
+    username: loan
+    password: Loan@xfjr1
